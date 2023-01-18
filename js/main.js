@@ -44,8 +44,6 @@ elBtn.addEventListener("click", function () {
 
   elResult1.textContent = hour + "soat" + " " + secund + "minut" + " " + mm + "secund";
 
-
-
 });
 
 
@@ -69,8 +67,6 @@ elBtn.addEventListener("click", function () {
 
 
   elResult2.textContent = hour + "soat" + " " + secund + "minut" + " " + mm + "secund";
-
-
 
 });
 
@@ -96,9 +92,6 @@ elBtn.addEventListener("click", function () {
 
 
   elResult3.textContent = hour + "soat" + " " + secund + "minut" + " " + mm + "secund";
-
-
-
 
 
 });
